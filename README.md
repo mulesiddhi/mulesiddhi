@@ -6,10 +6,10 @@ My name is <b>Siddhi Mule</b>
 
 ## &#x1f4c8; GitHub Stats
 
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mulesiddhi&show_icons=true&count_private=true&theme=dark" width="400"></a>
+  <a href="#"><img align='center' src="https://github-readme-stats.vercel.app/api?username=mulesiddhi&show_icons=true&count_private=true&theme=dark" width="400"></a>
 
 <a href="https://github.com/mulesiddhi/mulesiddhi">
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mulesiddhi&theme=dark' width='400'/>
+<img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=mulesiddhi&theme=dark&layout=compact&show_icons=true' width='400'/>
  </a>
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/mulesiddhi/mulesiddhi"></a>
