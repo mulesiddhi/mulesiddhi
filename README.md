@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi there 👋  I'm   <a href="https://mulesiddhi.github.io/" target="_blank">
+  Hi there 👋  I'm   <a href="https://github.com/mulesiddhi" target="_blank">
   Siddhi Mule</a> 👨‍💻
 </h1>
 <p align='center'>
