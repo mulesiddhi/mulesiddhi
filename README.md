@@ -3,6 +3,9 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mulesiddhi&show_icons=true&count_private=true&theme=dark" width="350"></a>
 
 </p>
+<p align='center'>
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
 <!--
 **mulesiddhi/mulesiddhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
