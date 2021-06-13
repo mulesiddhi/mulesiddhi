@@ -4,8 +4,8 @@
 
 </p>
 <p align='center'>
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+  <a href="#"><img src="https://badges.pufler.dev/visits/mulesiddhi/mulesiddhi"></a>
+</p>
 <!--
 **mulesiddhi/mulesiddhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
