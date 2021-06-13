@@ -2,6 +2,7 @@
  ## Hi there 👋 
 
 My name is <b>Siddhi Mule</b>
+[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/siddhi-mule-665679203)](www.linkedin.com/in/siddhi-mule-665679203)
 
 
 ## &#x1f4c8; GitHub Stats
@@ -11,9 +12,7 @@ My name is <b>Siddhi Mule</b>
 <a href="https://github.com/mulesiddhi/mulesiddhi">
 <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=mulesiddhi&theme=dark&layout=compact&show_icons=true' width='400'/>
  </a>
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/mulesiddhi/mulesiddhi"></a>
-</p>
+
 
 <!--
 **mulesiddhi/mulesiddhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
