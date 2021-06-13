@@ -9,7 +9,7 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mulesiddhi&show_icons=true&count_private=true&theme=dark" width="400"></a>
 
 <a href="https://github.com/mulesiddhi/mulesiddhi">
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mulesiddhi'/>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mulesiddhi&theme=dark' width='400'/>
  </a>
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/mulesiddhi/mulesiddhi"></a>
