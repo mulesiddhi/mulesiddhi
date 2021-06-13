@@ -1,7 +1,7 @@
 
  ## Hi there 👋 
 
-<h2>My name is Siddhi Mule</h2>
+My name is <b>Siddhi Mule</b>
 
 
 ## &#x1f4c8; GitHub Stats
