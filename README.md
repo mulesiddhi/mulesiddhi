@@ -2,7 +2,8 @@
  ## Hi there 👋 
 
 My name is <b>Siddhi Mule</b>
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/siddhi-mule-665679203)](www.linkedin.com/in/siddhi-mule-665679203)
+<p>[![Linkedin Badge](https://img.shields.io/badge?style=flat&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/siddhi-mule-665679203)](www.linkedin.com/in/siddhi-mule-665679203)
+ </p>
 
 
 ## &#x1f4c8; GitHub Stats
