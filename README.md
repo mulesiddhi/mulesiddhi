@@ -1,11 +1,16 @@
-<h1 align='center'>
-  Hi there 👋  I'm   <a href="https://github.com/mulesiddhi" target="_blank">
-  Siddhi Mule</a> 👨‍💻
-</h1>
-<p align='center'>
+
+ ## Hi there 👋 
+
+<h2>My name is Siddhi Mule</h2>
+<h3>You can find me on  [![LinkedIn][3.2]][3].</h3>
+
+## &#x1f4c8; GitHub Stats
+
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mulesiddhi&show_icons=true&count_private=true&theme=dark" width="350"></a>
 
-</p>
+<a href="https://github.com/mulesiddhi/mulesiddhi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulesiddhi&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/mulesiddhi/mulesiddhi"></a>
 </p>
