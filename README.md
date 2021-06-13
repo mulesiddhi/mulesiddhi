@@ -14,6 +14,7 @@
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/mulesiddhi/mulesiddhi"></a>
 </p>
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 <!--
 **mulesiddhi/mulesiddhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
