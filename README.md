@@ -1,7 +1,6 @@
 
  ## Hey, I'm Siddhi 👋 
 <p>
- Let's Connect : 
  <a href="https://www.linkedin.com/in/siddhi-mule-665679203/">
   <img alt="Siddhi's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
