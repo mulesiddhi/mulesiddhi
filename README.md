@@ -8,13 +8,13 @@
 
 
 ## &#x1f4c8; GitHub Stats
-
+<div display='flex'>
   <a href="#"><img align='center' src="https://github-readme-stats.vercel.app/api?username=mulesiddhi&show_icons=true&theme=dark" width="350"></a>
 
 <a href="https://github.com/mulesiddhi/mulesiddhi">
 <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=mulesiddhi&theme=dark&layout=compact&show_icons=true' width='400'/>
  </a>
-
+</div>
 
 <!--
 **mulesiddhi/mulesiddhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
