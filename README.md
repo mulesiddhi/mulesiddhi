@@ -5,6 +5,7 @@
   <img alt="Siddhi's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
  </p>
+ <p>📫 How to reach me: : mulesiddhi@gmail.com </p>
 
 
 ## &#x1f4c8; GitHub Stats
