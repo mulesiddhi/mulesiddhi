@@ -2,10 +2,12 @@
  ## Hey, I'm Siddhi Mule 👋 
  <p>📫 How to reach me: : <a href='mulesiddhi@gmail.com'>mulesiddhi@gmail.com</a> </p>
 <div>
- <p>Connect With me </p>
+ <p>Connect With Me: </p>
+ <p>
  <a href="https://www.linkedin.com/in/siddhi-mule-665679203/">
   <img align="left" alt="Siddhi | LinkedIn" height="22px" src="./LinkedIn.png" />
 </a>
+ </p>
  </div>
 
 
