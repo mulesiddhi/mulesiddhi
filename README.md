@@ -2,7 +2,7 @@
  ## Hey, I'm Siddhi 👋 
 <p>
  <a href="https://www.linkedin.com/in/siddhi-mule-665679203/">
-  [<img align="left" alt="Siddhi | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />]
+  [<img align="left" alt="Siddhi | LinkedIn" height="22px" src="./LinkedIn.png" />]
 </a>
  </p>
  <p>📫 How to reach me: : <a href='mulesiddhi@gmail.com'>mulesiddhi@gmail.com</a> </p>
