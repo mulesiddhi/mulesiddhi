@@ -3,7 +3,7 @@
 <div style="position: relative">
   
 <div id="welcome-message" align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7aa37a&random=false&width=435&lines=Hi%2C+I'm+Siddhi Mule!;Welcome+to+my+account." alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I+am+Siddhi" alt="Typing SVG" /></a>
 </div>
 
 
