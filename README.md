@@ -7,7 +7,7 @@
 </div>
 
 
-Hi, I'm **Siddhi**! I am passionate about leveraging technology to solve complex problems and create innovative solutions. My journey spans a wide range of projects, from developing **dvanced recommendation systems** and **AI-driven networking applications** to pioneering machine learning techniques for **dark web content classification**. I have hands-on experience with **full-stack development**, **natural language processing**, and **data-driven decision-making**. Beyond tech, I am dedicated to continuous learning and **mentorship**, helping others navigate the evolving landscape of software engineering and machine learning. Always seeking new challenges and opportunities to make an impact, I am excited to contribute to cutting-edge advancements in the field.
+I am passionate about leveraging technology to solve complex problems and create innovative solutions. My journey spans a wide range of projects, from developing **dvanced recommendation systems** and **AI-driven networking applications** to pioneering machine learning techniques for **dark web content classification**. I have hands-on experience with **full-stack development**, **natural language processing**, and **data-driven decision-making**. Beyond tech, I am dedicated to continuous learning and **mentorship**, helping others navigate the evolving landscape of software engineering and machine learning. Always seeking new challenges and opportunities to make an impact, I am excited to contribute to cutting-edge advancements in the field.
 
 <br>
 
